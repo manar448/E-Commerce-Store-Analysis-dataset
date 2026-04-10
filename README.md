@@ -112,8 +112,3 @@ E-Commerce-Dashboard/
 
 Contributions are welcome!
 Feel free to fork the repo and submit a pull request.
-
-
-* Customize it for **Power BI / Tableau specifically**
-* Add **badges (GitHub, license, stars)**
-* Or write a **short version for portfolio use**
